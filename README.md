@@ -51,7 +51,7 @@ while True:
 
 ## Protótipo:
 
-![Untitled](Trabalho%20IoT%200ae3f766ea114f6ebb9f546932106fe1/Untitled.png)
+![Untitled](Untitled.png)
 
 ### diagram.json:
 

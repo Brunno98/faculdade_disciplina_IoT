@@ -1,5 +1,8 @@
 # faculdade_disciplina_IoT
 
+### Wokwi
+https://wokwi.com/projects/347222269745955412
+
 # Trabalho IoT
 
 Aluno: Brunno Santana Soares
